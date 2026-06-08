@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Present-Template/static/css/main.f1989b16.css",
-    "main.js": "/React-Present-Template/static/js/main.b0027144.js",
-    "static/js/453.b2c65378.chunk.js": "/React-Present-Template/static/js/453.b2c65378.chunk.js",
-    "index.html": "/React-Present-Template/index.html",
-    "main.f1989b16.css.map": "/React-Present-Template/static/css/main.f1989b16.css.map",
-    "main.b0027144.js.map": "/React-Present-Template/static/js/main.b0027144.js.map",
-    "453.b2c65378.chunk.js.map": "/React-Present-Template/static/js/453.b2c65378.chunk.js.map"
+    "main.css": "/Big-Data-Animations/static/css/main.f1989b16.css",
+    "main.js": "/Big-Data-Animations/static/js/main.1e97e9ff.js",
+    "static/js/453.b2c65378.chunk.js": "/Big-Data-Animations/static/js/453.b2c65378.chunk.js",
+    "index.html": "/Big-Data-Animations/index.html",
+    "main.f1989b16.css.map": "/Big-Data-Animations/static/css/main.f1989b16.css.map",
+    "main.1e97e9ff.js.map": "/Big-Data-Animations/static/js/main.1e97e9ff.js.map",
+    "453.b2c65378.chunk.js.map": "/Big-Data-Animations/static/js/453.b2c65378.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1989b16.css",
-    "static/js/main.b0027144.js"
+    "static/js/main.1e97e9ff.js"
   ]
 }
