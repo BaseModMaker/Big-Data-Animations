@@ -1,0 +1,36 @@
+.shared-slide-ui {
+  pointer-events: none;
+}
+
+.slide-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 25px 24px;
+
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+}
+
+.slide-progress-bar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  height: 6px;
+  background: rgba(255, 255, 255, 0.2);
+
+  z-index: 10;
+}
+
+.slide-progress-bar-fill {
+  height: 100%;
+  transition: width 0.25s ease;
+}
