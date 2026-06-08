@@ -31,11 +31,11 @@
 .slide-content {
   position: relative;
   z-index: 2;
-  max-width: 980px;
+  max-width: 100%;
 }
 
 .slide h1 {
-  max-width: 980px;
+  max-width: 100%;
   margin: 0;
   font-size: 52px;
   line-height: 1.02;
@@ -175,7 +175,7 @@
 }
 
 .quote {
-  max-width: 980px;
+  max-width: 100%;
   font-size: 44px;
   line-height: 1.12;
   font-weight: 700;
@@ -190,11 +190,11 @@
 
 /* Technical slide helpers */
 .wide-content {
-  max-width: 1180px;
+  max-width: 100%;
 }
 
 .technical-slide .subtitle {
-  max-width: 980px;
+  max-width: 100%;
 }
 
 .technical-plot {
@@ -367,7 +367,7 @@
   grid-template-columns: 1fr;
   gap: 14px;
   margin-top: 34px;
-  max-width: 980px;
+  max-width: 100%;
 }
 
 .memory-block {

@@ -65,19 +65,15 @@ export default function Slide1() {
       <img id="ulb-seal" className="ulb-seal" alt="" />
 
       <main className="slide-content">
-        <h1>Practical Evaluation of the Non-Resumable Model</h1>
+        <h1>Animations for the course Big Data</h1>
 
         <p className="subtitle">
-          A feasibility study on real operating systems and hardware
+          Part 1
         </p>
 
         <PlotlyDivider />
 
         <p className="author">Basile Donnay</p>
-
-        <p className="supervisor">
-          Supervisor: Joël Goossens — MEMO-F-403
-        </p>
       </main>
 
       <style>{`
